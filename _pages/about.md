@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">Southern Cross University</a>
+subtitle: Southern Cross University
 
 profile:
   align: right
@@ -10,7 +10,6 @@ profile:
   image_circular: false
   more_info: >
     <p>Southern Cross University</p>
-    <p>Military Road</p>
     <p>Lismore NSW 2480</p>
     <p>Australia</p>
 
@@ -18,9 +17,7 @@ selected_papers: false
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+  enabled: false
 
 latest_posts:
   enabled: false
