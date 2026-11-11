@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral researcher,Environmental Geochemistry & Mineralogy, Southern Cross University
+subtitle: Post-doctoral researcher, <a href="https://www.environmental-geochemistry.net/">Environmental Geochemistry & Mineralogy group</a>, Southern Cross University
 
 profile:
   align: right
