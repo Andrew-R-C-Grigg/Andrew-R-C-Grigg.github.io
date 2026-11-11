@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-My publications cover environmental geochemistry, acid mine drainage, secondary iron mineral formation, trace element behaviour, and synchrotron spectroscopy.
+My publications cover Fe mineralogy, acid sulfate soils, acid mine drainage, iron mineral transformation in soil and Mössbauer spectroscopy.
 
 For a complete and up-to-date list of publications and citation metrics, please see my Google Scholar profile:
 
@@ -16,5 +16,5 @@ For a complete and up-to-date list of publications and citation metrics, please 
 
 Additional researcher profiles:
 
-   <a href="https://orcid.org/0000-0003-3738-0214">ORCID</a>
-   <a href="https://www.scu.edu.au/about/contacts/directory/132227/">Southern Cross University researcher profile</a> 
+   <p><a href="https://orcid.org/0000-0003-3738-0214">ORCID</a></p>
+   <p><a href="https://www.scu.edu.au/about/contacts/directory/132227/">Southern Cross University researcher profile</a> </p>
