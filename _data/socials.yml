@@ -1,14 +1,12 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+email: andrew.grigg@scu.edu.au # your email address
+scholar_userid: icuY7yQAAAAJ # your Google Scholar ID
+orcid_ID: 0000-0003-3738-0214
+linkedin_username: andrew-grigg-0b126191
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+  logo: https://researchportal.scu.edu.au/rep/researcherProfileImage?userId=11445869670002368&institution=61SCU_INST&version=1656046759192 # can be png, svg, jpg
+  title: Institution homepage
+  url: https://www.scu.edu.au/about/contacts/directory/132227/
+github_username: Andrew-R-C-Grigg
