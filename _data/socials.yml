@@ -3,10 +3,10 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: andrew.grigg@scu.edu.au # your email address
 scholar_userid: icuY7yQAAAAJ # your Google Scholar ID
-orcid_ID: 0000-0003-3738-0214
+orcid_id: 0000-0003-3738-0214
 linkedin_username: andrew-grigg-0b126191
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://researchportal.scu.edu.au/rep/researcherProfileImage?userId=11445869670002368&institution=61SCU_INST&version=1656046759192 # can be png, svg, jpg
+  logo: /assets/img/prof_pic.jpg # can be png, svg, jpg
   title: Institution homepage
   url: https://www.scu.edu.au/about/contacts/directory/132227/
 github_username: Andrew-R-C-Grigg
