@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)  
+title: Andrew Grigg | Environmental Biochemistry # the website title (if blank, full name will be used instead)  
 first_name: Andrew
 middle_name: R. C.
 last_name: Grigg
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Environmental geochemist studying acid mine drainage, iron and aluminium mineral systems, and the application of synchrotron and spectroscopic techniques to environmental mineralogy. My research focuses on the formation, transformation and trace element incorporation of Fe-bearing secondary minerals in natural and engineered environments.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
