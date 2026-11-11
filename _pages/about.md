@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Southern Cross University
+subtitle: Post-doctoral researcher,Environmental Geochemistry & Mineralogy, Southern Cross University
 
 profile:
   align: right
@@ -25,16 +25,16 @@ latest_posts:
 ---
 
 <p>
-I am a Post-doctoral researcher at Southern Cross University working in the Environmental Geochemistry and Mineralogy research group. My research focuses on iron mineral formation and transformation in soils and aquatic environments. As a biogeochemist, I investigate the influence of mineral transformation on the availability and mobility of pollutants and nutrients in the environment. I am interested in the effects of complex environmental matrices on mineral processes.
+I am a Post-doctoral researcher at in the Faculty of Science and Engineering at Southern Cross University. My research focuses on iron mineral formation and transformation in soils and aquatic environments. As a biogeochemist and environmental mineralogist, I investigate the influence of mineral transformation on the availability and mobility of pollutants and nutrients in the environment. I am interested in the effects of complex environmental matrices on mineral processes.
 </p>
 <p>
-Research Interests:
+Key Research Interests:
   <ul>
   <li>Acid mine drainage and acid sulfate soils.</li>
     <li>Environmental mineralogy and trace element behaviour.</li>
-    <li>Jarosite, schwertmannite and ferrihydrite.</li>
+    <li>Iron oxhyhydroxide and hydroxysulfates including jarosite, schwertmannite and ferrihydrite.</li>
     <li>Iron and aluminium geochemistry.</li>
-    <li>Mössbauer spectroscopy, Synchrotron spectroscopy, Raman spectroscopy.</li>
+    <li>Mössbauer, Synchrotron XAS and Raman spectroscopy.</li>
     <li>Effects of nano-scale heterogeneity in environmental mineralogy.</li>
   </ul>
   </p>
